@@ -36,7 +36,7 @@ Chat App 3 is a real-time messaging web application built with modern web techno
  
   
 ## How to Run the Project  
- . Clone this repository:  
+  Clone this repository:  
    ```bash  
    git clone https://github.com/Nasir-Hasan-Ashik/chat_app_3.git
 ```
