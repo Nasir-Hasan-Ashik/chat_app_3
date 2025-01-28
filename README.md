@@ -33,3 +33,16 @@ Chat App 3 is a real-time messaging web application built with modern web techno
 
 - **Database**:  
   - MongoDB
+ 
+  
+## How to Run the Project  
+ 1. Clone this repository:  
+   ```bash  
+   git clone https://github.com/Nasir-Hasan-Ashik/chat_app_3.git
+```
+ 2. Navigate to the project directory:
+   ```bash  
+  cd chat_app_3  
+ ```
+
+
