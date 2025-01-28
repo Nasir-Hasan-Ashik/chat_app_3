@@ -1,4 +1,4 @@
-# Chat App 3
+# Chat App 
 
 ## Overview  
 Chat App 3 is a real-time messaging web application built with modern web technologies. The application allows users to send and receive messages instantly, with real-time updates using **Socket.io** for seamless communication. It features user authentication, messaging, and the ability to maintain multiple chat rooms.
@@ -40,9 +40,6 @@ Chat App 3 is a real-time messaging web application built with modern web techno
    ```bash  
    git clone https://github.com/Nasir-Hasan-Ashik/chat_app_3.git
 ```
- 2. Navigate to the project directory:
-   ```bash  
-  cd chat_app_3  
- ```
+
 
 
